@@ -23,22 +23,22 @@ Project is created with:
 
 ## 🌿 Preview images
 
-<div style="display: grid, grid-template-column: repeat(2, 1fr)">
+
 <br>
-<img src="./images/photo_1.png" width="400" height="400" />
+<img src="./images/photo_1.png" width="400" height="220" />
 &nbsp;
-<img src="./images/photo_2.png" width="400" height="400" />
+<img src="./images/photo_2.png" width="400" height="220" />
 &nbsp;
-<img src="./images/photo_3.png" width="400" height="400" />
+<img src="./images/photo_3.png" width="400" height="220" />
 &nbsp;
-<img src="./images/photo_4.png" width="400" height="400" />
+<img src="./images/photo_4.png" width="400" height="220" />
 &nbsp;
-<img src="./images/photo_5.png" width="400" height="400" />
+<img src="./images/photo_5.png" width="400" height="220" />
 &nbsp;
-<img src="./images/photo_6.png" width="400" height="400" />
+<img src="./images/photo_6.png" width="400" height="220" />
 <br>
-</div>
+
 
 ## 📍 License & copyright
 
-© Thiep Ngo
+© Thiep Ngo | Licensed under the [MIT LICENSE](LICENSE).
