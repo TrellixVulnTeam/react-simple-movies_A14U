@@ -14,10 +14,9 @@ Project is created with:
 - The movie Database(TMDB) API
 
 ## ⚙️ Setup
-<br>
-`$ npm install`
-<br>
-`$ npm start`
+- `$ npm install`
+&nbsp;
+- `$ npm start`
 
 ## 🌿 Preview images
 
