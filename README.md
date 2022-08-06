@@ -14,8 +14,6 @@ Project is created with:
 - The movie Database(TMDB) API
 
 ## ⚙️ Setup
-
-`$ cd ../react-simple-movies`
 <br>
 `$ npm install`
 <br>
