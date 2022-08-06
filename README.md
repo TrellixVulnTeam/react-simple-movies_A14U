@@ -1,5 +1,7 @@
 # PROJECT REACT MOVIE APP
 
+## 🔗 Link Project: https://react-simple-movies.herokuapp.com
+
 ## 💡 Introduction
 
 I built a movie application with React JS. The app helps you search for a movie, read information about a movie and check the rating.
